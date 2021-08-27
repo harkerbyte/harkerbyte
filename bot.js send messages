@@ -1,0 +1,7 @@
+/ Cancel Operation
+bot.onText(/Cancel/, function (msg) {
+  if (config.bot.users.indexOf(msg.from.id) == -1) return;
+  var chatId = msg.chat.id;
+  userStates[chatId] = '';
+  bot.sendMessage(chatId, 'The operation was cancelled', engine.listOfCommandsKeyboard);
+})

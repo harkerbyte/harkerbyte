@@ -1,0 +1,6 @@
+bot.command('start', ctx => {
+    console.log(ctx.from)
+    bot.telegram.sendMessage(ctx.chat.id, 'hello there 👋 
+.', {
+    })
+})

@@ -1,0 +1,17 @@
+const Telegraf = require('telegraf');
+
+const bot = new Telegraf('1969279863:AAF-4vEZjTW-j2sGyYyyOLuYDaO2NoFqph0');
+
+const requestPhoneKeyboard = {
+    "reply_markup": {
+        "one_time_keyboard": true,
+        "keyboard": [
+            [{
+                text: "My phone number",
+                request_contact: true,
+                one_time_keyboard: true
+            }],
+            ["Cancel"]
+        ]
+    }
+};

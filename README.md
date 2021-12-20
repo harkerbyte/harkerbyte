@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cybernetics 
+- 👋 Hi, I’m cybernetics 
 - 👀 I’m interested in ... Hacking news and blogs
 - 🌱 I’m currently learning ... ethical hackin
 - 💞️ I’m looking to collaborate on ... CTF

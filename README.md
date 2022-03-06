@@ -1,8 +1,9 @@
-- 👋 Hi, I’m cybernetics 
-- 👀 I’m interested in ... Hacking news and blogs
-- 🌱 I’m currently learning ... ethical hacking
-- 💞️ I’m looking to collaborate on ... Messaging python bot
-- 📫 How to reach me ... Cybersalimn@gmail.com 
+- 👋 THE NAME IS SHERIFDEEN ( Popularly known as cybernetics )
+- IM STILL A KID THO 😎(❁´◡`❁)(❁´◡`❁)
+- 🌱 IM CURRENTLY LEARNING PYTHON LANGUAGE ( JAVASCRIPT NEXT 😏 )
+- SINGLE DEV 🤪🥴
+- WANT TO BECOME A CYBERSECURITY RESEARCHER🐱‍👤🧐 / SOFTWARE ENGINEER 👻🤖
+- -YOU CAN REACH ME ON FACEBOOK www.facebook.com/cyberhacks6
 
 <!---
 Cybernetics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,13 +1,23 @@
-- 👹The name is sherifdeen ( Popularly known as cybernetics )
-- aged....please wait....
-- 🌱 loading...
-- relationship status~ error 
-- blog page : https://cyberhacks.science.blog
-- loading....
-- You can reach me via www.facebook.com/cyberhacks6
-- 
-- 
-- 
+*HOLLA, IT CYBERNETICS
+```
+[+]THE NAME IS SHERIFDEEN(shade234sherif)
+[+]I'M A MUSLIM
+[+]NIGERIAN 💚
+[+]BORN 💔
+[+]AGE - 0
+[+]STUDYING IN KINDERGARTEN
+[+]LOVES TO CODE 
+[+]LEARNING PYTHON🐍 AND JAVASCRIPT👾
+```
+
+## SOCIALS
+[+]FACEBOOK HANDLES : shade234sherif</br>
+[+] WHATSAPP : #tg%#@^%%():
+
+
+ 
+ 
+ 
 
 <!---
 Cybernetics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

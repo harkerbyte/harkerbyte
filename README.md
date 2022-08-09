@@ -11,8 +11,7 @@
 ```
 
 ## SOCIALS
-[+]FACEBOOK HANDLES : shade234sherif</br>
-[+] WHATSAPP : #tg%#@^%%():
+[+]FACEBOOK HANDLES : shade234sherif
 
 
  

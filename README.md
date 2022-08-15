@@ -3,7 +3,7 @@
 [+]THE NAME IS SHERIFDEEN(shade234sherif)
 [+]I'M A MUSLIM
 [+]NIGERIAN 💚
-[+]BORN 💔
+[+]BORN SINGLE 💔
 [+]AGE - 0
 [+]STUDYING IN KINDERGARTEN
 [+]LOVES TO CODE 

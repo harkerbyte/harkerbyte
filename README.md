@@ -1,5 +1,3 @@
-*HOLA🙂🖐
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shade234sherif)](https://github.com/shade234sherif/github-readme-stats)
 
 
@@ -33,7 +31,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/shade234sherif?style=social)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/cyberhacks6?style=social)
 
 
 <!---

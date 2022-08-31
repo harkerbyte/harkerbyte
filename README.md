@@ -9,7 +9,7 @@
 
 <h3><b><i>🍸 About :</i></b></h3>
 <li>My name is sherifdeen</i></li>
-<li>I reside somewhere in NIGERIA💚</i></li>
+<li>I reside somewhere in NIGERIA💚🗺</i></li>
 <li>Born single💔</i></li>
 <li>Learning python🐍 and javascript👾</i></li>
 <li>Living A.I🧠</i></li>
@@ -19,10 +19,10 @@
 
 
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<h3><b><i>🌌🪐 Github Statistics :</i></b></h3>
 <a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=shade234sherif&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<h3><b><i>🌌🪐 Profile Statistics :</i></b></h3>
 
 <a href="https://github.com/shade234sherif"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=shade234sherif&color=blueviolet&style=flat-square"></a>
 

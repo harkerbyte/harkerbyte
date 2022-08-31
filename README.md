@@ -18,6 +18,9 @@
 
 
 
+<h3><b><i>🌌🪐 Github Statistics :</i></b></h3>
+<a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=shade234sherif&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
 
 
 <h3><b><i>🌌🪐 Profile Statistics :</i></b></h3>

@@ -14,12 +14,13 @@
 <li>Learning python🐍 and javascript👾</i></li>
 <li>F4cked up PG🐱‍👤</i></li>
 <li>Hatred for none🦩</i></li>
+<li>ADHD 🥺</i></li>
 
 
 
 
 <h3><b><i>🌌🪐 Github Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=shade234sherif&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository"/></a>
+<a href="https://github.com/shade234sherif"><img width=550 src="https://github-profile-trophy.vercel.app/?username=shade234sherif&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository"/></a>
 
 
 

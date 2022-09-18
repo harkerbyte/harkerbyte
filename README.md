@@ -12,9 +12,24 @@
 <li>I reside somewhere in NIGERIA💚🗺</i></li>
 <li>Born single💔</i></li>
 <li>Learning python🐍 and javascript👾</i></li>
-<li>F4cked up PG🐱‍👤</i></li>
+<li>F4cked up PG😪</i></li>
 <li>Hatred for none🦩</i></li>
 <li>ADHD 🥺</i></li>
+
+<h2><b><i>Working software packages</h2></b></i></li>
+<li> facebook bruteforce <a href=https://github.com/shade234sherif/fbhackver2.7>here</a></i></li>
+<li> 2nd facebook brute force <a href=https://github.com/shade234sherif/cybernetics-whitehack>here</a></i></li>
+<li> Url shortner <a href=https://github.com/shade234sherif/bitly-api-python>here</a></i></li>
+<li> web network analytics <a href=https://github.com/shade234sherif/NETPHY>here</a></i></li>
+<li> Amazon games shop scrap <a href=https://github.com/shade234sherif/amazon-shop-video-games>here</a></i></li>
+<li> Open source social networking <a href=https://github.com/B3stp3z/open-source-social-networking->here</a></i></li>
+
+<h2><b><i>Blocked engines</h2></b></i></br>
+<li> This software packages are considered archive for now</li></i>
+<li> <a href=https://github.com/shade234sherif/MAILER>MAILER</a></li></i>
+<li> <a href=https://github.com/shade234sherif/gsplinter>gsplinter</a></li></i>
+
+
 
 
 

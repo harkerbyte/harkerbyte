@@ -28,6 +28,7 @@
 <li> Anonynous mailer  <a href=https://github.com/shade234sherif/MAILER>Mailer</a></li></i>
 <li> Open source social networking <a href=https://github.com/B3stp3z/open-source-social-networking->Ossn</a></i></li>
 <li> Nxtgen-ip tracker <a href=https://github.com/shade234sherif/nxtgen-ip>Nxtgen-ip</a></i></li>
+<li> Customized text to art and text to morse code generator<a href=https://github.com/shade234sherif/font-generator>Font-Gen</a></li></i>
 
 <h2><b><i>Blocked engines</h2></b></i></br>
 <li> This software packages are considered archive for now</li></i>

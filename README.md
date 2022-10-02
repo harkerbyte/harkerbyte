@@ -19,22 +19,6 @@
 <li>Hatred for none🦩</i></li>
 <li>ADHD 🥺</i></li>
 
-<h2>Premium activation</h2></br>
-<p>I will be hosting a discount event of -50% until december 1st 2022</p></br>
- <p>Premium feature costs 3$ with zero discount.You can also stand a chance to get the premium features for free<p></br>
- <p>Reach out to me via buttons below</p>
-         
- <p> If you had any issue or discovered bugs while using the software</p></br>
- <p> Please do not reply to this mail. You can get me via mail using the gmail button</p></br>
-         
- <li>You can reach on this platforms</li></br>
- <button name="Facebook"><img src="Facebook-logo.jpeg"><a href=https://facebook.com/cyberhacks6>Facebook page</a></button></br>
- <button name="github"><img src="github-me.jpeg"><a href="https://github.com/shade234sherif>Profile</a></button></br>
- <button name="Gmail"><img src="gmail-logo.jpeg"><a href"mailto=cybersalimn@gmail.com></a></button></br>
- <h1> support</h1></br>
-         
-         <button name="Buy me a coffee"><img src="coffee-logo.jpeg"><a href=https//https://www.buymeacoffee.com/shade234sherif></a></button>
-
 <h2><b><i>Working software packages</h2></b></i></li>
 <li> facebook bruteforce <a href=https://github.com/shade234sherif/fbhackver2.7>Fbhackver2.7</a></i></li>
 <li> 2nd facebook brute force <a href=https://github.com/shade234sherif/cybernetics-whitehack>Cybernetics-whitehack</a></i></li>

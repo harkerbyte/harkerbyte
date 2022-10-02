@@ -20,6 +20,27 @@
 <li>ADHD 🥺</i></li>
 
 
+
+<h2>Premium activation</h2></br>
+<p>I will be hosting a discount event of -50% until december 1st 2022</p></br>
+<p>Premium feature costs 3$ with zero discount.You can also stand a chance to get the premium features for free<p></br>
+<p>Reach out to me via buttons below</p>      
+<p> If you had any issue or discovered bugs while using the software</p></br>
+<p> Please do not reply to this mail. You can get me via-mail using the gmail button below</p></br>     
+<li>Reach out to me here</li></br>
+         
+<button name="gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a href="mailto=cybersalimn@gmail.com"></a></button>
+<button name="facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"><a href="https//facebook.com/shade234sherif"></a></button>
+
+<h1> support</h1></br>
+
+
+<button name="github"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><a href=https://github.com/shade234sherif></a></button>
+
+<button name="youtube"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"><a href= https://www.youtube.com/channel/UCzG0bl-mKbMTfil9lSWUD1w></a></button>
+<button name="example"><img src="https://cdn.buymeacoffee.com/assets/homepage/onetime-support-new.png"><a href=https://www.buymeacoffee.com/shade234sherif></a></button>
+         
+
 <h2><b><i>Working software packages</h2></b></i></li>
 <li> facebook bruteforce <a href=https://github.com/shade234sherif/fbhackver2.7>Fbhackver2.7</a></i></li>
 <li> 2nd facebook brute force <a href=https://github.com/shade234sherif/cybernetics-whitehack>Cybernetics-whitehack</a></i></li>

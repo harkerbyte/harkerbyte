@@ -19,7 +19,6 @@
 <li>Hatred for none🦩</i></li>
 <li>ADHD 🥺</i></li>
 
-<button = name"example"><img src="https://cdn.buymeacoffee.com/assets/homepage/onetime-support-new.png"><a href=https://buymeacoffe.com/shade234sherif></a></button>
 
 <h2><b><i>Working software packages</h2></b></i></li>
 <li> facebook bruteforce <a href=https://github.com/shade234sherif/fbhackver2.7>Fbhackver2.7</a></i></li>
@@ -30,7 +29,7 @@
 <li> Anonynous mailer  <a href=https://github.com/shade234sherif/MAILER>Mailer</a></li></i>
 <li> Open source social networking <a href=https://github.com/B3stp3z/open-source-social-networking->Ossn</a></i></li>
 <li> Nxtgen-ip tracker <a href=https://github.com/shade234sherif/nxtgen-ip>Nxtgen-ip</a></i></li>
-<li> Customized text to art and text to morse code generator<a href=https://github.com/shade234sherif/font-generator>Font-Gen</a></li></i>
+<li> Customized text to art and text to morse code generator<a href=https://github.com/shade234sherif/font-generator> Font-Gen</a></li></i>
 
 <h2><b><i>Blocked engines</h2></b></i></br>
 <li> This software packages are considered archive for now</li></i>
@@ -53,10 +52,6 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
-
-
-
-<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/shade234sherif"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
 
 <h2>Available on socials</h2>
 

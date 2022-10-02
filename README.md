@@ -30,15 +30,15 @@
 <li>Reach out to me here</li></br>
          
 <a href="mailto=cybersalimn@gmail.com"><button name="gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></button></a>
-<a href="https//facebook.com/shade234sherif"><button name="facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a></button>
+<a href="https//facebook.com/shade234sherif"><button name="facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></button></a>
 
 <h1> support</h1></br>
 
 
-<a href=https://github.com/shade234sherif><button name="github"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a></button>
+<a href=https://github.com/shade234sherif><button name="github"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></button></a>
 
-<a href= https://www.youtube.com/channel/UCzG0bl-mKbMTfil9lSWUD1w><button name="youtube"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a></button>
-<a href=https://www.buymeacoffee.com/shade234sherif><button name="example"><img src="https://cdn.buymeacoffee.com/assets/homepage/onetime-support-new.png"></a></button>
+<a href= https://www.youtube.com/channel/UCzG0bl-mKbMTfil9lSWUD1w><button name="youtube"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></button></a>
+<a href=https://www.buymeacoffee.com/shade234sherif><button name="example"><img src="https://cdn.buymeacoffee.com/assets/homepage/onetime-support-new.png"></button></a>
          
 
 <h2><b><i>Working software packages</h2></b></i></li>

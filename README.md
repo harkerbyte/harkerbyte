@@ -29,7 +29,7 @@
 <p> Please do not reply to this mail. You can get me via-mail using the gmail button below</p></br>     
 <li>Reach out to me here</li></br>
          
-<a href="mailto=cybersalimn@gmail.com"><button name="gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></button></a>
+<a href="mailto:cybersalimn@gmail.com"><button name="gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></button></a>
 <a href="https//facebook.com/shade234sherif"><button name="facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></button></a>
 
 <h1> support</h1></br>

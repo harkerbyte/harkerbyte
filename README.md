@@ -29,16 +29,16 @@
 <p> Please do not reply to this mail. You can get me via-mail using the gmail button below</p></br>     
 <li>Reach out to me here</li></br>
          
-<button name="gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a href="mailto=cybersalimn@gmail.com"></a></button>
-<button name="facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"><a href="https//facebook.com/shade234sherif"></a></button>
+<a href="mailto=cybersalimn@gmail.com"></a><button name="gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></button>
+<a href="https//facebook.com/shade234sherif"><button name="facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></button>
 
 <h1> support</h1></br>
 
 
-<button name="github"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><a href=https://github.com/shade234sherif></a></button>
+<a href=https://github.com/shade234sherif></a><button name="github"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></button>
 
-<button name="youtube"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"><a href= https://www.youtube.com/channel/UCzG0bl-mKbMTfil9lSWUD1w></a></button>
-<button name="example"><img src="https://cdn.buymeacoffee.com/assets/homepage/onetime-support-new.png"><a href=https://www.buymeacoffee.com/shade234sherif></a></button>
+<a href= https://www.youtube.com/channel/UCzG0bl-mKbMTfil9lSWUD1w></a><button name="youtube"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></button>
+<a href=https://www.buymeacoffee.com/shade234sherif></a><button name="example"><img src="https://cdn.buymeacoffee.com/assets/homepage/onetime-support-new.png"></button>
          
 
 <h2><b><i>Working software packages</h2></b></i></li>

@@ -1,7 +1,7 @@
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shade234sherif)](https://github.com/shade234sherif/github-readme-stats)
+![Shade's GitHub stats](https://github-readme-stats.vercel.app/api?username=shade234sherif&show_icons=true&theme=dark)
 
-
-![Shade's GitHub stats](https://github-readme-stats.vercel.app/api?username=shade234sherif&show_icons=true&theme=radical)
 
 
 
@@ -86,6 +86,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+[![shade234sherif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shade234sherif)](https://github.com/shade234sherif/github-readme-stats)
 
 
 

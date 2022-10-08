@@ -118,7 +118,9 @@ The Russian government and other potential criminals are trying to disrupt fundr
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-[![shade234sherif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shade234sherif)](https://github.com/shade234sherif/github-readme-stats)
+
+
+![shade234sherif's wakatime stats](https://wakatime.com/share/@shade234sherif/07dc8929-c6bc-4674-acf3-655524697355.png)
 
 
 

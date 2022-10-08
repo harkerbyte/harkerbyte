@@ -17,7 +17,7 @@ Available options for financial transfer: credit card, bank transfer, PayPal, cr
 ![donate](https://user-images.githubusercontent.com/79071277/194730790-af44a7c1-4fa7-4da7-b918-679f4c200c34.png)
 
 </a>
-<li>Ukrainians official donation site <a href=https://war.ukraine.ua/donate/> HERE</a></br>
+<li>Ukrainians official donation site <a href=https://u24.gov.ua/> HERE</a></br>
 <h2></h2>
 
 

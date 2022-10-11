@@ -120,10 +120,6 @@ The Russian government and other potential criminals are trying to disrupt fundr
 
 
 
-![shade234sherif's wakatime stats](https://wakatime.com/share/@shade234sherif/07dc8929-c6bc-4674-acf3-655524697355.png)
-
-
-
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/shade234sherif"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
 

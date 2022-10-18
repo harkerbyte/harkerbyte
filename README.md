@@ -1,32 +1,6 @@
 
 ![hand peace](https://user-images.githubusercontent.com/79071277/194730795-9195b497-af14-425d-b850-d315dd55c484.png)
 
-<h2><p><b>Doante funds to support the ukraine defenders</p></b></br></h2>
-<li>The initiative of the President of Ukraine</br>
-The President of Ukraine announced the creation of a transparent platform for donations to Ukraine during the war with Russia.</br> 
-
-You can choose one of the categories to donate to:</br>
-
-<li>Defence and demining</br>
-<li>Medical aid</br>
-<li>Rebuild Ukraine</br>
-Available options for financial transfer: credit card, bank transfer, PayPal, crypto.</br>
-
-<a href=https://u24.gov.ua/>
-
-![donate](https://user-images.githubusercontent.com/79071277/194730790-af44a7c1-4fa7-4da7-b918-679f4c200c34.png)
-
-</a>
-<li>Ukrainians official donation site <a href=https://u24.gov.ua/> HERE</a></br>
-<h2></h2>
-
-
-<li>Beware of fake fundraisers!</br>
-The Russian government and other potential criminals are trying to disrupt fundraising efforts by creating fake campaigns. Please trust ONLY the resources listed on</br> that page and double-check the URLs!
-
-![heart ukraine](https://user-images.githubusercontent.com/79071277/194730788-62b4735e-7bed-468d-b8fe-3e2a22b0798c.png)
-
-
 <h2></h2>
 
 
@@ -123,6 +97,34 @@ The Russian government and other potential criminals are trying to disrupt fundr
 
 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/shade234sherif"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
+
+<h2></h2>
+
+<h2><p><b>Doante funds to support the ukraine defenders</p></b></br></h2>
+<li>The initiative of the President of Ukraine</br>
+The President of Ukraine announced the creation of a transparent platform for donations to Ukraine during the war with Russia.</br> 
+
+You can choose one of the categories to donate to:</br>
+
+<li>Defence and demining</br>
+<li>Medical aid</br>
+<li>Rebuild Ukraine</br>
+Available options for financial transfer: credit card, bank transfer, PayPal, crypto.</br>
+
+<a href=https://u24.gov.ua/>
+
+![donate](https://user-images.githubusercontent.com/79071277/194730790-af44a7c1-4fa7-4da7-b918-679f4c200c34.png)
+
+</a>
+<li>Ukrainians official donation site <a href=https://u24.gov.ua/> HERE</a></br>
+<h2></h2>
+
+
+<li>Beware of fake fundraisers!</br>
+The Russian government and other potential criminals are trying to disrupt fundraising efforts by creating fake campaigns. Please trust ONLY the resources listed on</br> that page and double-check the URLs!
+
+![heart ukraine](https://user-images.githubusercontent.com/79071277/194730788-62b4735e-7bed-468d-b8fe-3e2a22b0798c.png)
+
 
 <!---
 Cybernetics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

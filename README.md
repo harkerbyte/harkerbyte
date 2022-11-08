@@ -57,7 +57,6 @@
 <a href="https://github.com/shade234sherif"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=shade234sherif&color=blueviolet&style=flat-square"></a>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
 
 <h2>Available on socials</h2>
 

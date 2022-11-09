@@ -13,14 +13,13 @@
 <h2><b><i>Hola, it's cybernetics🖐🙂</h2></b></i>
 
 
-<b><i>💻 I'm a Student & A part time Programmer</i></b>
+<b><i>💻 I'm a Student & A part time Programmer☯</i></b>
 
 <h3><b><i>🍸 About :</i></b></h3>
-<li>My name is sherifdeen</i></li>
-<li>I reside somewhere in NIGERIA💚🗺</i></li>
+<li>My name is ⚛sherifdeen⚛</i></li>
+<li>🔰NIGERIA💚🗺</i></li>
 <li>Born single💔</i></li>
 <li>Learning python🐍 and javascript👾</i></li>
-<li>F4cked up PG😪</i></li>
 <li>Hatred for none🦩</i></li>
 <li>ADHD 🥺</i></li>
 
@@ -34,7 +33,7 @@
 <li> Anonynous mailer  <a href=https://github.com/shade234sherif/MAILER>Mailer</a></li></i>
 <li> Open source social networking <a href=https://github.com/B3stp3z/open-source-social-networking->Ossn</a></i></li>
 <li> Nxtgen-ip tracker <a href=https://github.com/shade234sherif/nxtgen-ip>Nxtgen-ip</a></i></li>
-<li> Bio cloner<a href="https://github.com/shade234sherif/bio-replika">Bio-replika</a>
+<li> Bio cloner <a href="https://github.com/shade234sherif/bio-replika">Bio-replika</a>
 <li> Customized text to art and text to morse code generator<a href=https://github.com/shade234sherif/font-generator> Font-Gen</a></li></i>
 
 <h2><b><i>Blocked engines</h2></b></i></br>
@@ -60,12 +59,12 @@
 
 <h2>Available on socials</h2>
 
-<a href = https://facebook.com/cyberhacks6>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href = "https://facebook.com/cyberhacks6">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href="mailto:cybersalimn@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href =https://facebook.com/shade234sherif>![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)</a>
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-<a href=https://cyberhacks.science.blog>![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</a>
-<a href=https://www.youtube.com/channel/UCzG0bl-mKbMTfil9lSWUD1w>![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+<a href ="https://wa.me/+2349155558315">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href =https://cyberhacks.science.blog>![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</a>
+<a href = https://www.youtube.com/channel/UCzG0bl-mKbMTfil9lSWUD1w>![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 
 <h2>Operating systems</h2>
 

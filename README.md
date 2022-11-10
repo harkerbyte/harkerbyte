@@ -16,11 +16,11 @@
 <b><i>💻 I'm a Student & A part time Programmer☯</i></b>
 
 <h3><b><i>🍸 About :</i></b></h3>
-<li>My name is ⚛sherifdeen⚛</i></li>
-<li>🔰NIGERIA💚🗺</i></li>
-<li>Born single💔</i></li>
-<li>Learning python🐍 and javascript👾</i></li>
-<li>Hatred for none🦩</i></li>
+<li>SHERIFDEEN</i></li>
+<li>NIGERIA💚🗺</i></li>
+<li>SINGLE 💔</i></li>
+<li>LEARNING🐍 MYSQL👾</i></li>
+<li>HATRED FOR NONE🦩</i></li>
 <li>ADHD 🥺</i></li>
 
 

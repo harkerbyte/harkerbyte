@@ -98,7 +98,7 @@
 
 <h2></h2>
 
-<h2><p><b>Doante funds to support the ukraine defenders</p></b></br></h2>
+<h2><p><b>Donate funds to support the ukraine defenders</p></b></br></h2>
 <li>The initiative of the President of Ukraine</br>
 The President of Ukraine announced the creation of a transparent platform for donations to Ukraine during the war with Russia.</br> 
 

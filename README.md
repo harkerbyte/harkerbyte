@@ -1,5 +1,4 @@
 
-![7489](https://user-images.githubusercontent.com/79071277/201477145-1deead57-b660-40a6-8339-af76d02fd55f.gif)
 
 
 <h2></h2>
@@ -12,6 +11,10 @@
 
 
 <h2><b><i>Hola, it's cybernetics🖐🙂</h2></b></i>
+
+
+![7489](https://user-images.githubusercontent.com/79071277/201477145-1deead57-b660-40a6-8339-af76d02fd55f.gif)
+
 
 
 <b><i>💻 I'm a Student & A part time Programmer☯</i></b>

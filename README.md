@@ -10,7 +10,7 @@
 
 
 
-<h2><b><i>Hello🙋🏽‍♂ , it's sherifdeen</h2></b></i>
+<h2><b><i>Hello , it's sherifdeen</h2></b></i>
 
 
 ![7489](https://user-images.githubusercontent.com/79071277/201477145-1deead57-b660-40a6-8339-af76d02fd55f.gif)
@@ -20,12 +20,12 @@
 <b><i>💻 I'm a Student & A part time Programmer☯</i></b>
 
 <h3><b><i>🍸 About :</i></b></h3>
-<li>SHERIFDEEN</i></li>
-<li>NIGERIA💚🗺</i></li>
-<li>SINGLE 💔</i></li>
-<li>LEARNING🐍 MYSQL👾</i></li>
-<li>HATRED FOR NONE🦩</i></li>
-<li>ADHD 🥺</i></li>
+<li> NAME : SHERIFDEEN</i></li>
+<li>RESIDE : NIGERIA💚🗺</i></li>
+<li>RELATIONSHIP : SINGLE </i></li>
+<li> NOTE : LEARNING🐍 MYSQL👾</i></li>
+<li>MORE : HATRED FOR NONE🦩</i></li>
+<li>DEAL : ADHD 🥺</i></li>
 
 
 <h2><b><i>Working software packages</h2></b></i></li>

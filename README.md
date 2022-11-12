@@ -10,7 +10,7 @@
 
 
 
-<h2><b><i>Hola, it's cybernetics🖐🙂</h2></b></i>
+<h2><b><i>Hello🙋🏽‍♂ , it's sherifdeen</h2></b></i>
 
 
 ![7489](https://user-images.githubusercontent.com/79071277/201477145-1deead57-b660-40a6-8339-af76d02fd55f.gif)
@@ -29,6 +29,7 @@
 
 
 <h2><b><i>Working software packages</h2></b></i></li>
+
 <li> facebook bruteforce <a href=https://github.com/shade234sherif/fbhackver2.7>Fbhackver2.7</a></i></li>
 <li> 2nd facebook brute force <a href=https://github.com/shade234sherif/cybernetics-whitehack>Cybernetics-whitehack</a></i></li>
 <li> Url shortner <a href=https://github.com/shade234sherif/bitly-api-python>Bit-U-short</a></i></li>

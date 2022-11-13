@@ -9,9 +9,7 @@
 
 
 
-
-<h2><b><i>Hello , it's sherifdeen</h2></b></i>
-
+<h2>Hello👨🏽‍💻</h2>
 
 ![7489](https://user-images.githubusercontent.com/79071277/201477145-1deead57-b660-40a6-8339-af76d02fd55f.gif)
 
@@ -23,9 +21,9 @@
 <li> NAME : SHERIFDEEN</i></li>
 <li>RESIDE : NIGERIA💚🗺</i></li>
 <li>RELATIONSHIP : SINGLE </i></li>
-<li> NOTE : LEARNING🐍 MYSQL👾</i></li>
-<li>MORE : HATRED FOR NONE🦩</i></li>
-<li>DEAL : ADHD 🥺</i></li>
+<li>LEARNING🐍 MYSQL👾</i></li>
+<li>LOVE : CONTRIBUTING...🦩</i></li>
+<li>DAMN : ADHD 🥺</i></li>
 
 
 <h2><b><i>Working software packages</h2></b></i></li>

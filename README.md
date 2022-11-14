@@ -9,7 +9,7 @@
 
 
 
-<h2>Hello👨🏽‍💻</h2>
+<h4>Hey👼🏽,there it's sherifdeen</h4>
 
 ![7489](https://user-images.githubusercontent.com/79071277/201477145-1deead57-b660-40a6-8339-af76d02fd55f.gif)
 
@@ -18,7 +18,6 @@
 <b><i>💻 I'm a Student & A part time Programmer☯</i></b>
 
 <h3><b><i>🍸 About :</i></b></h3>
-<li> NAME : SHERIFDEEN</i></li>
 <li>RESIDE : NIGERIA💚🗺</i></li>
 <li>RELATIONSHIP : SINGLE </i></li>
 <li>LEARNING🐍 MYSQL👾</i></li>

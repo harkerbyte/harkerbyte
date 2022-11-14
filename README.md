@@ -18,11 +18,11 @@
 <b><i>💻 I'm a Student & A part time Programmer☯</i></b>
 
 <h3><b><i>🍸 About :</i></b></h3>
-<li>RESIDE : NIGERIA💚🗺</i></li>
-<li>RELATIONSHIP : SINGLE </i></li>
-<li>LEARNING🐍 MYSQL👾</i></li>
-<li>LOVE : CONTRIBUTING...🦩</i></li>
-<li>DAMN : ADHD 🥺</i></li>
+<li>Reside : nigeria💚🗺</i></li>
+<li>Relationship : single</i></li>
+<li>learning🐍 mysql👾</i></li>
+<li>Love : contributing...🦩</i></li>
+<li>Damn : ADHD 🥺</i></li>
 
 
 <h2><b><i>Working software packages</h2></b></i></li>

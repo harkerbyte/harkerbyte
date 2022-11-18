@@ -18,7 +18,7 @@
 <b><i>💻 I'm a Student & A part time Programmer☯</i></b>
 
 <h3><b><i>🍸 About :</i></b></h3>
-<li>Reside : nigeria💚🗺</i></li>
+<li>Reside : nigeria🗺</i></li>
 <li>Relationship : single</i></li>
 <li>learning🐍 mysql👾</i></li>
 <li>Love : contributing...🦩</i></li>

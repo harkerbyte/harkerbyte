@@ -19,8 +19,7 @@
 
 <h3><b><i>🍸 About :</i></b></h3>
 <li>Reside : nigeria🗺</i></li>
-<li>Relationship : single</i></li>
-<li>learning🐍 mysql👾</i></li>
+<li>learn🐍 djan👾 c🔜 js🔰</i></li>
 <li>Love : contributing...🦩</i></li>
 <li>Damn : ADHD 🥺</i></li>
 

@@ -41,7 +41,7 @@
 <li> Bio cloner <a href="https://github.com/shade234sherif/bio-replika"> replika</a>
 
 <br></br>
-<strong>Legal and ethical hack practices only.. If used illegally i won't be held responsible</strong>
+<strong>Legal and ethical hack practices only.. If used illegally, i won't be held responsible</strong>
 
 <h2>Utility packages</h2>
 <li> Nxtgen-ip ( ip-lookup ) <a href=https://github.com/shade234sherif/nxtgen-ip> ip</a></i></li>

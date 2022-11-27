@@ -3,8 +3,9 @@
 
 <h2></h2>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shade234sherif&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shade234sherif)](https://github.com/shade234sherif/github-readme-stats)
+
 ![Shade's GitHub stats](https://github-readme-stats.vercel.app/api?username=shade234sherif&show_icons=true&theme=dark)
 
 
@@ -18,10 +19,14 @@
 <b><i>💻 I'm a Student & A part time Programmer☯</i></b>
 
 <h3><b><i>🍸 About :</i></b></h3>
-<li> <i>Male</i><superset>°</superset></li>
+<li>
+ <i>Male</i><superset>°</superset></li>
+<li>Poor programmer<superset>°</superset>
+</li>
 
 
-<br></br><br></br>
+
+<br></br>
 
 
 

@@ -5,8 +5,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shade234sherif&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
 
+![shade's GitHub stats](https://github-readme-stats.vercel.app/api?username=shade234sherif&show_icons=true&theme=tokyonight&count_private=true)
 
-![Shade's GitHub stats](https://github-readme-stats.vercel.app/api?username=shade234sherif&show_icons=true&theme=dark)
 
 
 
@@ -105,8 +105,7 @@
 ![626a7865b4419e5f79c69ec9_6102889225b1427b79e25799_lTdkOKIdlvVf0kjXlMm3ARzMzJuYpTi6HaxhkAHJNRlz-ZaDu1hEDh4LF2gCGl_ykU6lBpjOkDFy4g3EfJirRVtSSikZzBVACPcQgwka-8k5gLtkyRZxrysk8nl6fEzdKTGgd8Em](https://user-images.githubusercontent.com/79071277/202075127-43243d52-92d8-4853-872f-31a9f103fd99.gif)
 
 
-<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/shade234sherif"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
-
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/shade234sherif"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span
 <h2></h2>
 
 <h2><p><b>Donate funds to support the ukraine defenders</p></b></br></h2>

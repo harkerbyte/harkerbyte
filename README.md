@@ -18,10 +18,12 @@
 <b><i>💻 I'm a Student & A part time Programmer☯</i></b>
 
 <h3><b><i>🍸 About :</i></b></h3>
-<li>Reside : nigeria🗺</i></li>
-<li>learn🐍 djan👾 c🔜 js🔰</i></li>
-<li>Love : contributing...🦩</i></li>
-<li>Damn : ADHD 🥺</i></li>
+<li> <i>Male</i><superset>°</superset></li>
+
+
+<br></br><br></br>
+<br></br>
+
 
 
 <h2><b><i>Working software packages</h2></b></i></li>

@@ -21,7 +21,8 @@
 <h3><b><i>🍸 About :</i></b></h3>
 <li>
  <i>Male</i><superset>°</superset></li>
-<li>Poor programmer<superset>°</superset>
+ <li>Poor programmer<superset>°</superset></br>
+ <li>Nigerian<superset>°</superset>
 </li>
 
 

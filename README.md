@@ -37,7 +37,7 @@
 <li> Web network analytics <a href=https://github.com/harkerbyte/NETPHY>Netphy</a></i></li>
 <li> Amazon games shop scrap <a href=https://github.com/harkerbyte/amazon-shop-video-games> Amazon</a></i></li>
 <strong> 📃 legal</strong>
-<li> Anonynous mailer  <a href=https://github.com/shade234sherif/MAILER> Mailer</a></li></i>
+<li> Anonynous <a href=https://github.com/shade234sherif/MAILER> Mailer</a></li></i>
 <li> Bio cloner <a href="https://github.com/harkerbyte/biography-generator"> replika</a>
 
 <br></br>
@@ -51,7 +51,8 @@
 <h2><b><i>Recently reported</h2></b></i></br>
 
 <li> <a href=https://github.com/harkerbyte/gsplinter>gsplinter</a></li></i>
-<strong>This packages was recently reported... Fixing bugs</strong>
+<strong>This package was recently reported... Logs now archived ( check back later for the upgraded version ) </strong>
+
 
 
 

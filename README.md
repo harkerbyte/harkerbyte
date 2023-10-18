@@ -12,7 +12,7 @@
 
 <h4>Hey there👼🏽, it's sherifdeen</h4>
 
-![7489](https://user-images.githubusercontent.com/79071277/201477145-1deead57-b660-40a6-8339-af76d02fd55f.gif)
+![programming](https://github.com/harkerbyte/harkerbyte/assets/79071277/e73f62b9-9cd0-4fbe-8c28-49a0b6799a00)
 
 
 

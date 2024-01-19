@@ -56,11 +56,6 @@
 
 
 
-<h3><b><i>🌌🪐 Github Statistics :</i></b></h3>
-<a href="https://github.com/harkerbyte"><img width=550 src="https://github-profile-trophy.vercel.app/?username=harkerbyte&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository"/></a>
-
-
-
 
 <h2>Available on socials</h2>
 

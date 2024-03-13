@@ -1,32 +1,10 @@
+![EHil](https://github.com/harkerbyte/harkerbyte/assets/79071277/48251478-4df5-4235-bd0f-4b92196017c3)
 
 
 
 <h2></h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harkerbyte&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
-
-
-
-
-
-<h4>Hey there👼🏽, it's sherifdeen</h4>
-
-![programming](https://github.com/harkerbyte/harkerbyte/assets/79071277/e73f62b9-9cd0-4fbe-8c28-49a0b6799a00)
-
-
-
-<b><i>💻 I'm a Student & A part time Programmer☯</i></b>
-
-<h3><b><i>🍸 About :</i></b></h3>
-<li>
- <i>Male</i><superset>°</superset></li>
- <li>Productive<superset>°</superset></br>
-</li>
-
-
-
-<br></br>
-
 
 
 <h2><b><i>Packaged softwares for pen-test</h2></b></i></li>

@@ -2,29 +2,6 @@
 
 
 
-<h2></h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harkerbyte&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
-
-
-<h2><b><i>Packaged softwares for pen-test</h2></b></i></li>
-
-<li> facebook bruteforce <a href=https://github.com/harkerbyte/fbhackver2.7> Fbhackver2.7</a></i></li>
-<li> 2nd facebook brute force <a href=https://github.com/harkerbyte/cybernetics-whitehack> Whitehack</a></i></li>
-<li> Web network analytics <a href=https://github.com/harkerbyte/NETPHY>Netphy</a></i></li>
-<li> Amazon games shop scrap <a href=https://github.com/harkerbyte/amazon-shop-video-games> Amazon</a></i></li>
-<strong> 📃 legal</strong>
-<li> Anonynous <a href=https://github.com/harkerbyte/MAILER> Mailer</a></li></i>
-<li> Bio cloner <a href="https://github.com/harkerbyte/biography-generator"> replika</a>
-
-<br></br>
-<strong>Legal and ethical hack practices only.. If used illegally, i won't be held responsible</strong>
-
-<h2>Utility packages</h2>
-<li> Nxtgen-ip ( ip-lookup ) <a href=https://github.com/harkerbyte/nxtgen-ip> ip</a></i></li>
-<li> Url shortner ( bitly ) <a href=https://github.com/harkerbyte/bitly-api-python> short</a></i></li>
-<li> Customized text to art and text to morse code generator<a href=https://github.com/harkerbyte/font-generator> Font</a></li></i>
-
 <h2><b><i>Recently reported</h2></b></i></br>
 
 <li> <a href=https://github.com/harkerbyte/gsplinter>gsplinter</a></li></i>

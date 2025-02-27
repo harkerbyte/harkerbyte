@@ -11,8 +11,10 @@
 ### Recently reported
 
 <li> <a href=https://github.com/harkerbyte/gsplinter>gsplinter</a></li></i>
-<strong>This package was recently reported... Logs now archived ( check back later for the upgraded version ) </strong>
+<i>This package was recently reported... Logs now archived ( check back later for the upgraded version ) </i>
 
+<strong>This package is now available on Linux-monster </strong>
+<a href="https://github.com/harkerbyte/linux-monster" title="Linux-monster">Linux Monster 🗿</a>
 
 
 

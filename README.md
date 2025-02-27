@@ -1,5 +1,12 @@
 ![EHil](https://github.com/harkerbyte/harkerbyte/assets/79071277/48251478-4df5-4235-bd0f-4b92196017c3)
 
+### About
+The name's sh - ade (shade) an encomprise of my first and surname 
+Location : Probably somewhere on planet earth, couldn't find me?  Have you checked for me on planet mars 
+Hobby : That's really none of your business mate
+Religion : Proudly Muslim, asalamualaykum brother. 
+Favorite language : I haven't really gotten any, too flexible to get attached but it's safe to assume python / javascript they both fighting for that spot. 
+Favorite environment : adaptable asf, I can work on any environment, be it pc or mobile android. 
 
 
 <h2><b><i>Recently reported</h2></b></i></br>

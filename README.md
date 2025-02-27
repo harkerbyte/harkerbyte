@@ -8,7 +8,7 @@
 * Favorite language: I haven't really gotten attached to any, but it's safe to assume Python and JavaScript are both fighting for that spot. 
 * Favorite environment: Adaptable asf; I can work in any environment, be it PC or mobile Android.
 
-<h2><b><i>Recently reported</h2></b></i></br>
+### Recently reported
 
 <li> <a href=https://github.com/harkerbyte/gsplinter>gsplinter</a></li></i>
 <strong>This package was recently reported... Logs now archived ( check back later for the upgraded version ) </strong>
@@ -18,14 +18,14 @@
 
 
 
-<h2>Available on socials</h2>
+### Available on socials
 
 <a href = "https://facebook.com/harkerbyte">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href =https://cyberhacks.science.blog>![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</a>
 <a href ="https://youtube.com/@harkerbyte?si=y5zsaQlCfYS1f2pa" >![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 
 
-<h2><b>Programmes</h2></b>
+### Programmes
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -73,6 +73,6 @@ The Russian government and other potential criminals are trying to disrupt fundr
 
 
 <!---
-Cybernetics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Harkerbyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

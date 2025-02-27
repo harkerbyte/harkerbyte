@@ -10,8 +10,7 @@
 
 ### Recently reported
 
-<li> <a href=https://github.com/harkerbyte/gsplinter>gsplinter</a></li></i>
-<i>This package is now deprecated... Logs burnt 💣</i>
+<li> <a href=https://github.com/harkerbyte/gsplinter>gsplinter</a></li> : <i>This package is now deprecated... Logs burnt 💣</i>
 
 <strong>Now available on Linux-monster </strong></br>
 <a href="https://github.com/harkerbyte/linux-monster" title="Linux-monster">Linux Monster 🗿</a>

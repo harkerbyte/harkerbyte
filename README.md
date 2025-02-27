@@ -8,12 +8,11 @@
 * Favorite language: I haven't really gotten attached to any, but it's safe to assume Python and JavaScript are both fighting for that spot. 
 * Favorite environment: Adaptable asf; I can work in any environment, be it PC or mobile Android.
 
-### Recently reported
+### Most recent
 
-<li> <a href=https://github.com/harkerbyte/gsplinter>gsplinter</a></li> : <i>This package is now deprecated... Logs burnt 💣</i>
 
-<strong>Now available on Linux-monster </strong></br>
-<a href="https://github.com/harkerbyte/linux-monster" title="Linux-monster">Linux Monster 🗿</a>
+<strong>Linux-monster </strong>
+ <a href="https://github.com/harkerbyte/linux-monster" title="Linux-monster">Linux Monster 🗿</a>
 
 
 

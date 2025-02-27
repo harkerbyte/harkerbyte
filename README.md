@@ -8,36 +8,22 @@
 * Favorite language: I haven't really gotten attached to any, but it's safe to assume Python and JavaScript are both fighting for that spot. 
 * Favorite environment: Adaptable asf; I can work in any environment, be it PC or mobile Android.
 
-### Most recent
 
 
-<strong>Linux-monster </strong>
- <a href="https://github.com/harkerbyte/linux-monster" title="Linux-monster">Linux Monster 🗿</a>
-
-
-
-
-
-### Available on socials
+### Reach out
 
 <a href = "https://facebook.com/harkerbyte">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-<a href =https://cyberhacks.science.blog>![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</a>
 <a href ="https://youtube.com/@harkerbyte?si=y5zsaQlCfYS1f2pa" >![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 
 
-### Programmes
+### 🪃
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 
 
 ![626a7865b4419e5f79c69ec9_6102889225b1427b79e25799_lTdkOKIdlvVf0kjXlMm3ARzMzJuYpTi6HaxhkAHJNRlz-ZaDu1hEDh4LF2gCGl_ykU6lBpjOkDFy4g3EfJirRVtSSikZzBVACPcQgwka-8k5gLtkyRZxrysk8nl6fEzdKTGgd8Em](https://user-images.githubusercontent.com/79071277/202075127-43243d52-92d8-4853-872f-31a9f103fd99.gif)

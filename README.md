@@ -6,8 +6,7 @@
 * Location: Probably somewhere on planet Earth. Couldn't find me? Have you checked for me on planet Mars?
 * Religion: Proudly Muslim, as-salamu alaykum brother.
 * Favorite language: I haven't really gotten attached to any, but it's safe to assume Python and JavaScript are both fighting for that spot. 
-* Favorite environment: Adaptable asf; I can work in any environment, be it PC or mobile Android. I would rather pc or desktop tho, big head - > big screen 🗿
-
+* Favorite environment: Adaptable asf; I can work in any environment, be it PC or mobile Android. I would prefer PC or desktop though; big head -> big screen 🗿.
 
 ### Reach out
 

@@ -1,7 +1,7 @@
 ![EHil](https://github.com/harkerbyte/harkerbyte/assets/79071277/48251478-4df5-4235-bd0f-4b92196017c3)
 
 ### About
-* The name's Sh-ade (shade), an encompass of my first and surname.
+* Call me Sh-ade (shade), an encompass of my first and surname.
 * Hobby: That's really none of your business, mate.
 * Location: Probably somewhere on planet Earth. Couldn't find me? Have you checked for me on planet Mars?
 * Religion: Proudly Muslim, as-salamu alaykum brother.

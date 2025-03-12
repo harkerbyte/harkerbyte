@@ -8,26 +8,24 @@
 * Favorite language: I haven't really gotten attached to any, but it's safe to assume that Python and JavaScript are both fighting for that spot, while Shell is by the corner watching the heated argument.
 * Favorite environment: Adaptable asf; I can work in any environment, be it PC or mobile Android. I would prefer PC or desktop though; big head -> big screen 🗿.
 
-### Reach out
-
-<a href = "https://facebook.com/harkerbyte">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
-<a href ="https://youtube.com/@harkerbyte?si=y5zsaQlCfYS1f2pa" >![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
+### ❄️
+<a href = "https://facebook.com/harkerbyte">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)</a>
+<a href ="https://youtube.com/@harkerbyte?si=aPSIREosLJlFOmyX" >![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)</a>
+<a href="https://chat.whatsapp.com/E50UIyDbvd18o5UbZ1Kf8c">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)</a>
 
 
 ### 🪃
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 
 
 ![626a7865b4419e5f79c69ec9_6102889225b1427b79e25799_lTdkOKIdlvVf0kjXlMm3ARzMzJuYpTi6HaxhkAHJNRlz-ZaDu1hEDh4LF2gCGl_ykU6lBpjOkDFy4g3EfJirRVtSSikZzBVACPcQgwka-8k5gLtkyRZxrysk8nl6fEzdKTGgd8Em](https://user-images.githubusercontent.com/79071277/202075127-43243d52-92d8-4853-872f-31a9f103fd99.gif)
 
-
-<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/shade234sherif"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span
 <h2></h2>
 
 <h2><p><b>Donate funds to support the ukraine defenders</p></b></br></h2>

@@ -1,11 +1,11 @@
 ![EHil](https://github.com/harkerbyte/harkerbyte/assets/79071277/48251478-4df5-4235-bd0f-4b92196017c3)
 
 ### About
-* Call me Sh-ade (shade), an encompass of my first and surname.
+* Call me Sh-ade (shade). 
 * Hobby: That's really none of your business, mate.
 * Location: Probably somewhere on planet Earth. Couldn't find me? Have you checked for me on planet Mars?
 * Religion: Proudly Muslim, as-salamu alaykum brother.
-* Favorite language: I haven't really gotten attached to any, but it's safe to assume that Python and JavaScript are both fighting for that spot, while Shell is by the corner watching the heated argument.
+* Favorite language: I'd let my repos do the talking.
 * Favorite environment: Adaptable asf; I can work in any environment, be it PC or mobile Android. I would prefer PC or desktop though; big head -> big screen 🗿.
 
 ### ❄️

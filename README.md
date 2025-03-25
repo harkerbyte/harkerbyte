@@ -14,7 +14,8 @@
 <a href="https://whatsapp.com/channel/0029Vb5f98Z90x2p6S1rhT0S">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)</a>
 <a href="https://instagram.com/harkerbyte" >
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&amp;logo=instagram&amp;logoColor=white) </a>
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/shade_ofx?style=plastic&logo=X&label=%20&color=blue)
+<a href="https://x.com/shade_ofx?t=MF53V_O7YhHlDUiWqNqtRA&s=09"> 
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/shade_ofx?style=plastic&logo=X&label=%20&color=blue)</a>
 ### 🪃
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)

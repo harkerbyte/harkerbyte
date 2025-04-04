@@ -1,7 +1,7 @@
 ![EHil](https://github.com/harkerbyte/harkerbyte/assets/79071277/48251478-4df5-4235-bd0f-4b92196017c3)
 
 
-It's not about what lies in the end; I shall savor every last bit of struggle and pain. That I call brick by brick.
+It's not about what lies in the end; I shall savor every last bit of the struggle and pain. That I call brick by brick.
 
 ### About
 * (shade). 

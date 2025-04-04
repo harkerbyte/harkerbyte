@@ -3,13 +3,18 @@
 
 It's not about what lies in the end; I shall savor every last bit of the pain and struggle. That I call brick by brick.
 
-### About
-* (shade). 
-* Hobby: That's really none of your business, mate.
-* Location: Probably somewhere on planet Earth. Couldn't find me? Have you checked for me on planet Mars?
-* Religion: Proudly Muslim, as-salamu alaykum brother.
-* Favorite language: I'd let my repos do the talking.
-* Favorite environment: Adaptable asf; I can work in any environment, be it PC or mobile Android. I would prefer PC or desktop though; big head -> big screen 🗿.
+
+(shade).
+ 
+Hobby: That's really none of your business, mate.
+
+Location: Probably somewhere on planet Earth. Couldn't find me? Have you checked for me on planet Mars?
+
+Religion: Proudly Muslim, as-salamu alaykum brother.
+
+Favorite language: I'd let my repos do the talking.
+
+Favorite environment: Adaptable asf; I can work in any environment, be it PC or mobile Android. I would prefer PC or desktop though; big head -> big screen 🗿.
 
 ### ❄️
 <a href = "https://facebook.com/harkerbyte">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)</a>

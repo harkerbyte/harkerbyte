@@ -10,7 +10,7 @@ Hobby: That's really none of your business, mate.
 
 Location: Probably somewhere on planet Earth. Couldn't find me? Have you checked for me on planet Mars?
 
-Religion: Proudly Muslim, as-salamu alaykum brother.
+Religion: Islam.
 
 Favorite language: I'd let my repos do the talking.
 

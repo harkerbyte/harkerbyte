@@ -4,7 +4,7 @@
 It's not about what lies in the end; I shall savor every last bit of the pain and struggle. That I call brick by brick.
 
 
-(shade).
+shade
  
 Hobby: That's really none of your business, mate.
 

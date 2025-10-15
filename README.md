@@ -1,43 +1,115 @@
-![EHil](https://github.com/harkerbyte/harkerbyte/assets/79071277/48251478-4df5-4235-bd0f-4b92196017c3)
+<h1 align="center">Shade</h1>
+<h3 align="center">💻 Systems • Network • Security Engineer</h3>
+
+<p align="center">
+  <a href="https://github.com/harkerbyte">
+    <img src="https://img.shields.io/github/followers/harkerbyte?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/harkerbyte?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Active-blue?logo=github" alt="Projects"/>
+  </a>
+  <a href="https://pypi.org/project/shadeDB/">
+    <img src="https://img.shields.io/badge/PyPI-shadeDB-blueviolet?logo=pypi" alt="PyPI ShadeDB"/>
+  </a>
+  <img src="https://img.shields.io/badge/OS-Linux-green?logo=linux" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode" alt="VSCode"/>
+</p>
+
+---
+
+### 🧠 About Me
+
+I engineer **the layer beneath software** —  
+custom databases, autonomous networks, and adaptive security frameworks built to think fast and move silently.  
+My domain spans **system logic**, **distributed computing**, and **ethical hacking** —  
+forging tools that adapt, defend, and evolve beyond conventional limits.
+
+---
+
+### ⚡ Featured Creations
+
+- 🕸️ **[Spyder Network](https://github.com/harkerbyte/spyder)** — Linux-native networking tool for payload deployment, distributed pings, and peer-to-peer communication.  
+- 🧩 **[Shade Creed](https://github.com/harkerbyte/shadecreed)** — Security and XSS automation engine with modular CLI execution, endpoint customization, and sandboxed injection logic.  
+- 💽 **[ShadeDB](https://pypi.org/project/shadeDB/)** — Lightweight database engine with optimized on-disk I/O, transactional query logic, and decentralized instance creation.  
+- 🐉 **[Linux-Monster](https://github.com/harkerbyte/linux-monster)** — Intelligent brute-force and password generation suite with integrated scraping logic.
+
+---
+
+### 🧰 Tech Arsenal
+
+#### 🧑‍💻 Languages & Frameworks
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+
+</div>
+
+<br>
+
+#### ⚙️ Domains & Tools
+<div align="center">
+
+![System Design](https://img.shields.io/badge/System_Design-gray?logo=architecture&logoColor=white)
+![Database Engineering](https://img.shields.io/badge/Database_Engineering-blue?logo=databricks&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-darkgreen?logo=cloudflare&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-black?logo=hackaday&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0078D6?logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?logo=git&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?logo=android&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-purple?logo=ngrok&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-gray?logo=tailscale&logoColor=white)
+
+</div>
+
+---
+
+### 🧩 Engineering Philosophy
+
+> “I don’t build apps — I build the logic that makes systems possible.”
+
+Every system I design obeys three principles:  
+**speed**, **resilience**, and **minimalism**.  
+Machines should **think smarter**, not harder — and every line of code should serve evolution, not complexity.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/harkerbyte">
+    <img src="https://img.shields.io/badge/GitHub-%40harkerbyte-black?logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/shade_ofx">
+    <img src="https://img.shields.io/badge/-%40shade_ofx-black?logo=x" alt="X (Twitter)"/>
+  </a>
+  </a>
+  <a href="https://youtube.com/@harkerbyte">
+    <img src="https://img.shields.io/badge/YouTube-%40harkerbyte-red?logo=youtube" alt="YouTube"/>
+  </a>
+  <a href="mailto:adesolasherifdeen3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" alt="Email"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/HarkerByte_Network-Coming_Soon-orange?logo=matrix" alt="HarkerByte Network"/>
+  </a>
+</p>
 
 
-It's not about what lies in the end; I shall savor every last bit of the pain and struggle. That I call brick by brick.
-
-
-shade
- 
-Hobby: That's really none of your business, mate.
-
-Location: Probably somewhere on planet Earth. Couldn't find me? Have you checked for me on planet Mars?
-
-Religion: Islam.
-
-Favorite language: I'd let my repos do the talking.
-
-Favorite environment: Adaptable asf; I can work in any environment, be it PC or mobile Android. I would prefer PC or desktop though; big head -> big screen 🗿.
-
-<a href = "https://facebook.com/harkerbyte">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)</a>
-<a href ="https://youtube.com/@harkerbyte?si=aPSIREosLJlFOmyX" >![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white)</a>
-<a href="https://whatsapp.com/channel/0029Vb5f98Z90x2p6S1rhT0S">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)</a>
-<a href="https://instagram.com/harkerbyte" >
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&amp;logo=instagram&amp;logoColor=white) </a>
-<a href="https://x.com/shade_ofx?t=MF53V_O7YhHlDUiWqNqtRA&s=09"> 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/shade_ofx?style=plastic&logo=X&label=%20&color=blue)</a>
-### 🪃
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-
-
-
-![626a7865b4419e5f79c69ec9_6102889225b1427b79e25799_lTdkOKIdlvVf0kjXlMm3ARzMzJuYpTi6HaxhkAHJNRlz-ZaDu1hEDh4LF2gCGl_ykU6lBpjOkDFy4g3EfJirRVtSSikZzBVACPcQgwka-8k5gLtkyRZxrysk8nl6fEzdKTGgd8Em](https://user-images.githubusercontent.com/79071277/202075127-43243d52-92d8-4853-872f-31a9f103fd99.gif)
+<p align="center">
+  <i>“Constraint forces the mind to evolve — this establishes invention.  
+  Every limitation is just a new frontier for systems to transcend.”</i><br>
+  <sub>— Shade </sub>
+</p>
 
 <h2></h2>
 
-<h2><p><b>Donate funds to support the ukraine defenders</p></b></br></h2>
+<h4><p><b>Donate funds to support the ukraine defenders</p></b></br></h4>
 <li>The initiative of the President of Ukraine</br>
 The President of Ukraine announced the creation of a transparent platform for donations to Ukraine during the war with Russia.</br> 
 

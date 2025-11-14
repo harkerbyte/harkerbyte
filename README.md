@@ -82,6 +82,10 @@ Machines should **think smarter**, not harder — and every line of code should 
 ### 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://whatsapp.com/channel/0029Vb5f98Z90x2p6S1rhT0S"><img alt="follow harkerbyte(whatsapp)" src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white"></a>
+        <a href="https://facebook.com/harkerbyte"><img alt="follow harkerbyte(facebook)" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white"></a>
+        <a href="https://youtube.com/@harkerbyte"><img alt="subscribe to harkerbyte (YT)" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white"></a>
+     
   <a href="https://github.com/harkerbyte">
     <img src="https://img.shields.io/badge/GitHub-%40harkerbyte-black?logo=github" alt="GitHub"/>
   </a>

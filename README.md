@@ -2,9 +2,6 @@
 <h3 align="center">💻 Systems • Network • Security Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/harkerbyte">
-    <img src="https://img.shields.io/github/followers/harkerbyte?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
   <a href="https://github.com/harkerbyte?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Active-blue?logo=github" alt="Projects"/>
   </a>

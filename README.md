@@ -86,8 +86,8 @@ Machines should **think smarter**, not harder — and every line of code should 
   <a href="https://github.com/harkerbyte">
     <img src="https://img.shields.io/badge/GitHub-%40harkerbyte-black?logo=github" alt="GitHub"/>
   </a>
-  <a href="https://x.com/shade_ofx">
-    <img src="https://img.shields.io/badge/-%40shade_ofx-black?logo=x" alt="X (Twitter)"/>
+  <a href="https://x.com/shade_ofc">
+    <img src="https://img.shields.io/badge/-%40shade_ofc-black?logo=x" alt="X (Twitter)"/>
   </a>
   </a>
   <a href="https://youtube.com/@harkerbyte">
